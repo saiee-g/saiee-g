@@ -1,8 +1,4 @@
-## Hola mariposas  👋
-
-
-**saiee-g/saiee-g** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+## Hola mariposas  :butterfly:
 
 - 🔭 Working on Garbage Detection using YOLOv5
 - 🌱 Exploring Computer Vision with OpenCV and Deep Learning, Tensorflow and Keras
