@@ -1,8 +1,17 @@
 ## Hola mariposas  :butterfly:
 
-- 🔭 Working on Garbage Detection using YOLOv5
-- 🌱 Exploring Computer Vision with OpenCV and Deep Learning, Tensorflow and Keras
-- 💬 Ask me about Backend Development, Database Management an Deep learning
-- 📫 Reach me: saieegulhane@gmail.com
-- ⚡ Fun fact: I'm actually a cat.
+# 🔧 Tech Stack
+
+  Python | FastAPI | Neo4j | ☁️ AWS (kinda) | AI/ML + RAG magic | Postgres
+
+# Building cool stuff with:
+
+  - LLMs + Prompt Engineering
+  - Graphs that actually connect the dots
+  - Smart automation that makes life easier
+
+# 📫 Reach me: saieegulhane@gmail.com
+
+#⚡ Fun fact: 
+  I'm actually a cat.
 
