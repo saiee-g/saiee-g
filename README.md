@@ -10,8 +10,7 @@
   - Graphs that actually connect the dots
   - Smart automation that makes life easier
 
-### 📫 Reach me: saieegulhane@gmail.com
+#### 📫 Reach me: saieegulhane@gmail.com
 
-### ⚡ Fun fact: 
-  I'm actually a cat.
+#### ⚡ Fun fact: I'm actually a cat.
 
