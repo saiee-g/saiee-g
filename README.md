@@ -1,6 +1,6 @@
-# Hey, I’m Saiee :butterfly: 😸
+# Hey, I’m Saiee 😸
 
-I build AI systems that occasionally work on the first try.
+I build AI systems that occasionally work on the first try. :butterfly: 
 
 Backend + Applied AI engineer obsessed with:
 LLMs, graphs, weird edge cases, and making APIs survive production.
@@ -58,5 +58,5 @@ LLMs, graphs, weird edge cases, and making APIs survive production.
 - I trust logs more than people.
 - 90% of debugging is staring at the screen dramatically.
 - My code works best after midnight.
-- Probably a cat pretending to be an engineer. 🐈🐈‍⬛
+- Probably a cat pretending to be an engineer. 🐈
 
